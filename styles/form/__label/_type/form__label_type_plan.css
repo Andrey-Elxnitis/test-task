@@ -1,0 +1,10 @@
+.form__label_type_plan {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px;
+}
+.form__label_type_plan:hover {
+  background-color: #ebf5f7;
+  border: 1px solid #d8e0e2;
+}

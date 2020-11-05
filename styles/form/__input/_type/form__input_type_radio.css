@@ -1,0 +1,17 @@
+.form__input_type_radio {
+  display: none;
+}
+
+.form__input_type_radio + .form__radio-icon {
+  display: block;
+  box-sizing: border-box;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  border: 5px solid #d8d8d8;
+  margin-right: 10px;
+}
+.form__input_type_radio:checked + .form__radio-icon {
+  border: 5px solid #355f89;
+  background: radial-gradient(#009aca 40%, transparent 40%);
+}

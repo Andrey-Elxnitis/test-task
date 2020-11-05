@@ -13,6 +13,7 @@
 @import url('./__selected-plan/form__selected-plan.css');
 @import url('./__total/form__total.css');
 @import url('./__total-value/form__total-value.css');
+
 .form {
   border: 10px solid #ebebeb;
   background-color: #f8f8f8;
